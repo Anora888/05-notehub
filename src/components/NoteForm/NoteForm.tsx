@@ -61,6 +61,8 @@ export default function NoteForm({ onSubmit, onCancel }: Props) {
           <option value="Work">Work</option>
           <option value="Todo">Todo</option>
           <option value="Shopping">Shopping</option>
+          <option value="Meeting">Meeting</option>
+          <option value="Shopping">Shopping</option>
         </select>
       </div>
 
